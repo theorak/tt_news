@@ -6,7 +6,6 @@ use RG\TtNews\Div;
 use TYPO3\CMS\Core\Utility\GeneralUtility;
 use TYPO3\CMS\Core\Tree\TableConfiguration\DatabaseTreeDataProvider;
 
-
 /**
  * TCA tree data provider
  */
